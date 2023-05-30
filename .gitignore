@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+android/.gradle/
+android/build/
+android/app/build
+android/app/google-services.json
+android/app/debug.keystore
+android/app/release.keystore
+
+# IDE and Editor files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+*.swo
+.DS_Store
